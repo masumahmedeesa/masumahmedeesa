@@ -1,6 +1,9 @@
-<img src="https://github.com/masumahmedeesha/masumahmedeesha/blob/master/ahmed.jpeg" align="right" height="400" width="500"/>
+
 
 # Hi, I'm Masum Ahmed Eesha 👋🏾
+
+<img src="https://github.com/masumahmedeesha/masumahmedeesha/blob/master/masum.jpeg"/>
+
 ### masumahmedeesha@gmail.com <br>
 <b> (+880) 1701062056 </b> <br>
 Varsity Gate, Shahjalal University of Science and Technology <br>
