@@ -1,8 +1,9 @@
+
 # Masum Ahmed Eesha
 ### <b color="green"> masumahmedeesha@gmail.com </b>
 <b> (+880) 1701062056 </b> <br>
 Varsity Gate, Shahjalal University of Science and Technology <br>
-<a ref="linkedin.com/in/masum-ahmed-eesha-11066614b"> linkedin.com/masum-ahmed-eesha </a>
+[linkedin.com/masum-ahmed-eesha]{linkedin.com/in/masum-ahmed-eesha-11066614b}
 
 ## Objectives
 Recently I have worked as a Full Stack Developer in InnovexIT (a local IT solution company). Personally I developed a full-functioning web application and a Native application for my lab courses. Very soon, I will host a simple website that will give consultancy to interested people about Civil related problems by different Consultancy farms in Sylhet.
@@ -26,3 +27,5 @@ Recently I have worked as a Full Stack Developer in InnovexIT (a local IT soluti
 <b> Others </b>  HTML, CSS, Bootstrap <br>
 <b> Programming </b> Overall350+solutionsindifferentOnlineJudges <br>
 <b> VJudge </b> - MasHum, EeSha
+
+<img align="right" src="eesha.jpg"/>
