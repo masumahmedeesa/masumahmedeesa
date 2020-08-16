@@ -3,7 +3,7 @@
 # Hi, I'm Masum Ahmed Eesha 👋🏾 🙂 <br>
 ###  masumahmedeesha@gmail.com <br>
 <b> (+880) 1701062056 </b> <br>
-<b> Varsity Gate, Shahjalal University of Science and Technology </b> <br>
+<b> Varsity Gate, Shahjalal University of Science and Technology, Sylhet, Bangladesh </b> <br>
 [linkedIn.com/masumahmedeesha](https://linkedin.com/in/masum-ahmed-eesha-11066614b)
 
 
