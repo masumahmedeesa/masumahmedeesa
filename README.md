@@ -5,7 +5,6 @@
 Varsity Gate, Shahjalal University of Science and Technology <br>
 [linkedIn.com/masumahmedeesha](linkedin.com/in/masum-ahmed-eesha-11066614b)
  
-<img align="right" src="https://github.com/masumahmedeesha/masumahmedeesha/blob/master/eesha.jpg" />
 
 ## Objectives!
 I'm a Junior Software Engineer trying to build some open-source applications, help out people with great UX design, reach out technology to all-aged people, and building community. Some technologies I enjoy working with including NodeJS, Flutter, React-Native, Laravel, Rest API and Machine Learning. Recently I have started to work as a Full Stack Developer in InnovexIT (a local IT solution company). Very soon, I will host a simple website that will give consultancy to interested people about Civil related problems by different Consultancy farms in Sylhet.
