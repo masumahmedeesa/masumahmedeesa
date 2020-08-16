@@ -1,21 +1,10 @@
+<img src="https://github.com/masumahmedeesha/masumahmedeesha/blob/master/ahmed.jpeg" align="right" height="400" width="500"/>
 
 # Hi, I'm Masum Ahmed Eesha 👋🏾
-<img src="https://github.com/masumahmedeesha/masumahmedeesha/blob/master/ahmed.jpeg" align="right" height="400" width="500"/>
-### masumahmedeesha@gmail.com 
+### masumahmedeesha@gmail.com <br>
 <b> (+880) 1701062056 </b> <br>
 Varsity Gate, Shahjalal University of Science and Technology <br>
-[linkedIn.com/masumahmedeesha](linkedin.com/in/masum-ahmed-eesha-11066614b)
- 
-
-## Skills
-<b> Languages </b> C, C++, Java, JavaScript, PHP, Python, Assembly(Intel8086) <br>
-<b> Framework </b> NodeJS, Laravel <br>
-<b> NativePlatform </b>  Flutter <br>
-<b> MobileApplication </b> Android, iOS(Beginner) <br>
-<b> Database </b>  MySQL, NoSQL(Beginner) <br>
-<b> Others </b>  HTML, CSS, Bootstrap <br>
-<b> Programming </b> Overall350+solutionsindifferentOnlineJudges <br>
-<b> VJudge </b> - MasHum, EeSha
+[linkedIn.com/masumahmedeesha](https://linkedin.com/in/masum-ahmed-eesha-11066614b)
 
 
 ## Objectives!
@@ -31,6 +20,13 @@ I'm a Junior Software Engineer trying to build some open-source applications, he
   <b> Secondary School Certificate | 2014 </b> <br>
   Jamalpur Zilla School, Jamalpur <br>
   
-
-
+## Skills
+<b> Languages </b> C, C++, Java, JavaScript, PHP, Python, Assembly(Intel8086) <br>
+<b> Framework </b> NodeJS, Laravel <br>
+<b> NativePlatform </b>  Flutter <br>
+<b> MobileApplication </b> Android, iOS(Beginner) <br>
+<b> Database </b>  MySQL, NoSQL(Beginner) <br>
+<b> Others </b>  HTML, CSS, Bootstrap <br>
+<b> Programming </b> Overall350+solutionsindifferentOnlineJudges <br>
+<b> VJudge </b> - MasHum, EeSha
 
