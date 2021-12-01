@@ -6,7 +6,7 @@
 <b> Varsity Gate, Shahjalal University of Science and Technology, Sylhet, Bangladesh </b> <br>
 [linkedIn.com/masumahmedeesha](https://linkedin.com/in/masum-ahmed-eesha-11066614b)
 
-![Masum Ahmed EeSha's GitHub stats](https://github-readme-stats.vercel.app/api?username=masumahmedeesha&count_private=true&show_icons=true&theme=omni)
+![Masum Ahmed EeSha's GitHub stats](https://github-readme-stats.vercel.app/api?username=masumahmedeesha&count_private=true&show_icons=true&theme=cobalt)
 [![Masum Ahmed EeSha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masumahmedeesha)](https://github.com/masumahmedeesha/github-readme-stats)
 
 ## Objectives!
