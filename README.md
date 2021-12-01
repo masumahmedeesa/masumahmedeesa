@@ -24,10 +24,10 @@ I'm a Junior Software Engineer trying to build open-source applications, help ou
   
 ## Skills
 <b> Languages </b> C++, JavaScript, PHP, Python <br>
-<b> Framework </b> ReactJS, NodeJS, Laravel <br>
-<b> NativePlatform </b>  ReactNative <br>
+<b> Framework </b> NodeJS, Laravel <br>
+<b> Frontend </b>  ReactJS, Raw CSS, Bootstrap <br>
+<b> Native Platform </b>  ReactNative <br>
 <b> Database </b>  MongoDB, MySQL <br>
-<b> Others </b>  HTML, CSS, Bootstrap <br>
-<b> Programming </b> Overall350+ solutions in different OnlineJudges <br>
-<b> VJudge </b> - MasHum, EeSha
+<b> competitive Programming </b> Overall 350+ solutions in different Online Judges <br>
+<b> Handles </b> - [MasHum](https://vjudge.net/user/MasHum), [EeSha](https://vjudge.net/user/EeSha)
 
