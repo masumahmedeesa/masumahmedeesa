@@ -6,7 +6,8 @@
 <b> Varsity Gate, Shahjalal University of Science and Technology, Sylhet, Bangladesh </b> <br>
 [linkedIn.com/masumahmedeesha](https://linkedin.com/in/masum-ahmed-eesha-11066614b)
 
-![EeSha's GitHub stats](https://github-readme-stats.vercel.app/api?username=masumahmedeesha&count_private=true&show_icons=true&theme=omni)
+![Masum Ahmed EeSha's GitHub stats](https://github-readme-stats.vercel.app/api?username=masumahmedeesha&count_private=true&show_icons=true&theme=omni)
+[![Masum Ahmed EeSha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masumahmedeesha)](https://github.com/masumahmedeesha/github-readme-stats)
 
 ## Objectives!
 I'm a Junior Software Engineer trying to build open-source applications, help out people with great UX design, reach out technology to all-aged people, and build community. Some technologies I enjoy working with include NodeJS, Flutter, React-Native, Laravel, Rest API, and Machine Learning. Currently, I am working as a Full Stack Developer in CodexPro GmbH, a Germany-based company. Also, I've found a company named [aaloi.com](https://aaloi.com) that provides consultants from different Consultancy farms in Bangladesh to solve Civil related problems.
