@@ -13,7 +13,7 @@
 I'm a Junior Software Engineer trying to build open-source applications, help out people with great UX design, reach out technology to all-aged people, and build community. Some technologies I enjoy working with include NodeJS, Flutter, React-Native, Laravel, Rest API, and Machine Learning. Currently, I am working as a Full Stack Developer in CodexPro GmbH, a Germany-based company. Also, I've found a company named [aaloi.com](https://aaloi.com) that provides consultants from different Consultancy farms in Bangladesh to solve Civil related problems.
 
 ## Education
-  <b> BSc in Computer Science and Engineering </b> <br>
+  <b> BSc in Computer Science and Engineering | 2021 </b> <br>
   Shahjalal University of Science and Technology, Sylhet <br>
   
   <b> Higher Secondary School Certificate | 2016 </b> <br>
