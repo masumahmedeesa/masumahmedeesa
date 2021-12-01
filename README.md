@@ -33,9 +33,9 @@ I'm a Junior Software Engineer trying to build open-source applications, help ou
 
 ## List of Live Products Developed by [Masum Ahmed EeSha](https://github.com/masumahmedeesha)
 [<b> AALOI </b>](https://aaloi.com) <br>
-<b> CodexPro </b> [codexpro.eu](https://codexpro.eu) <br>
-<b> Umediad </b> [umediad.com](https://umediad.com) <br>
-<b> Mammuts </b> [Mammuts](https://play.google.com/store/apps/details?id=com.mammuts) <br>
-<b> KOYKI </b> [KOYKI](https://apps.apple.com/us/app/koyki/id1519676644) <br>
-<b> Intent Detection </b> [intent-detection.herokuapp.com](https://intent-detection.herokuapp.com) <br>
-<b> BayDJob </b> [BayDJob](https://apps.apple.com/il/app/baydjob/id1511388697)
+[<b> CodexPro </b>](https://codexpro.eu) <br>
+[<b> Umediad </b>](https://umediad.com) <br>
+[<b> Mammuts </b>](https://play.google.com/store/apps/details?id=com.mammuts) <br>
+[<b> KOYKI </b>](https://apps.apple.com/us/app/koyki/id1519676644) <br>
+[<b> Intent Detection </b>](https://intent-detection.herokuapp.com) <br>
+[<b> BayDJob </b>](https://apps.apple.com/il/app/baydjob/id1511388697)
