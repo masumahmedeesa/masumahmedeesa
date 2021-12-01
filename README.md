@@ -31,3 +31,8 @@ I'm a Junior Software Engineer trying to build open-source applications, help ou
 <b> competitive Programming </b> Overall 350+ solutions in different Online Judges <br>
 <b> Handles </b> - [MasHum](https://vjudge.net/user/MasHum), [EeSha](https://vjudge.net/user/EeSha)
 
+## Live Products (Developed by EeSha)
+<b> AALOI </b> [aaloi.com](https://aaloi.com) <br>
+<b> CodexPro </b> [codexpro.eu](https://codexpro.eu) <br>
+<b> Umediad </b> [umediad.com](https://umediad.com) <br>
+<b> Intent Detection </b> [intent-detection.herokuapp.com](https://intent-detection.herokuapp.com)
