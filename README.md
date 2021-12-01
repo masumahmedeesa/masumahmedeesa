@@ -32,7 +32,7 @@ I'm a Junior Software Engineer trying to build open-source applications, help ou
 <b> Handles </b> - [MasHum](https://vjudge.net/user/MasHum), [EeSha](https://vjudge.net/user/EeSha)
 
 ## List of Live Products Developed by [Masum Ahmed EeSha](https://github.com/masumahmedeesha)
-<b> AALOI </b> [aaloi.com](https://aaloi.com) <br>
+[<b> AALOI </b>](https://aaloi.com) <br>
 <b> CodexPro </b> [codexpro.eu](https://codexpro.eu) <br>
 <b> Umediad </b> [umediad.com](https://umediad.com) <br>
 <b> Mammuts </b> [Mammuts](https://play.google.com/store/apps/details?id=com.mammuts) <br>
