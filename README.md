@@ -9,7 +9,7 @@
 ![Masum Ahmed EeSha's GitHub stats](https://github-readme-stats.vercel.app/api?username=masumahmedeesha&count_private=true&show_icons=true&theme=cobalt)
 
 ## Objectives!
-I'm a Junior Software Engineer trying to build open-source applications, help out people with great UX design, reach out technology to all-aged people, and build community. Some technologies I enjoy working with include NodeJS, Flutter, React-Native, Laravel, Rest API, and Machine Learning. Currently, I am working as a Full Stack Developer in CodexPro GmbH, a Germany-based company. Also, I've found a company named [aaloi.com](https://aaloi.com) that provides consultants from different Consultancy farms in Bangladesh to solve Civil related problems.
+I'm a Software Engineer trying to build open-source applications, help out people with great digital solutions for nowadays problems, reach out technology to all-aged people, and build community. Some technologies I enjoy working with include React, NextJS, NodeJS, React-Native, Laravel, and Machine Learning. Currently, I am working as a Software Engineer in CodexPro GmbH, a Germany-based company. Also, I've initiated an idea (aaloi.com) that'll provide consultants from different Consultancy farms in Bangladesh to solve Civil related problems.
 
 ## Education
   <b> BSc in Computer Science and Engineering | 2021 </b> <br>
@@ -31,7 +31,6 @@ I'm a Junior Software Engineer trying to build open-source applications, help ou
 <b> Handles </b> - [MasHum](https://vjudge.net/user/MasHum), [EeSha](https://vjudge.net/user/EeSha)
 
 ## List of Live Products Developed by [Masum Ahmed EeSha](https://github.com/masumahmedeesha)
-[<b> AALOI </b>](https://aaloi.com) <br>
 [<b> CodexPro </b>](https://codexpro.eu) <br>
 [<b> Umediad </b>](https://umediad.com) <br>
 [<b> Mammuts </b>](https://play.google.com/store/apps/details?id=com.mammuts) <br>
