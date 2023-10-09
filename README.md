@@ -6,8 +6,6 @@
 <b> Varsity Gate, Shahjalal University of Science and Technology, Sylhet, Bangladesh </b> <br>
 [linkedIn.com/masumahmedeesha](https://linkedin.com/in/masum-ahmed-eesha-11066614b)
 
-![Masum Ahmed EeSha's GitHub stats](https://github-readme-stats.vercel.app/api?username=masumahmedeesha&count_private=true&show_icons=true&theme=cobalt)
-
 ## Objectives!
 I'm a Software Engineer trying to build open-source applications, help out people with great digital solutions for nowadays problems, reach out technology to all-aged people, and build community. Some technologies I enjoy working with include React, NextJS, NodeJS, React-Native, Laravel, and Machine Learning. Currently, I am working as a Software Engineer in CodexPro GmbH, a Germany-based company. Also, I've initiated an idea (aaloi.com) that'll provide consultants from different Consultancy farms in Bangladesh to solve Civil related problems.
 
