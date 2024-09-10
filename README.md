@@ -1,10 +1,10 @@
 <img src="https://github.com/masumahmedeesha/masumahmedeesha/blob/master/masum.jpeg" /> <br>
 
-# Hi, I'm Masum Ahmed Eesha 👋🏾 🙂 <br>
+# Hi, I'm Masum Ahmed Eesa 👋🏾 🙂 <br>
 ###  masumahmedeesha@gmail.com <br>
 <b> (+880) 1701062056 </b> <br>
 <b> Varsity Gate, Shahjalal University of Science and Technology, Sylhet, Bangladesh </b> <br>
-[linkedIn.com/masumahmedeesha](https://linkedin.com/in/masum-ahmed-eesha-11066614b)
+[linkedIn.com/masumahmedeesa](https://linkedin.com/in/masumahmedeesa)
 
 ## Objectives!
 I'm a Software Engineer trying to build open-source applications, help out people with great digital solutions for nowadays problems, reach out technology to all-aged people, and build community. Some technologies I enjoy working with include React, NextJS, NodeJS, React-Native, Laravel, and Machine Learning. Currently, I am working as a Software Engineer in CodexPro GmbH, a Germany-based company. Also, I've initiated an idea (aaloi.com) that'll provide consultants from different Consultancy farms in Bangladesh to solve Civil related problems.
