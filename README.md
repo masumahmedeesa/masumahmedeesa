@@ -28,7 +28,7 @@ I'm a Software Engineer trying to build open-source applications, help out peopl
 <b> Competitive Programming </b> Overall 350+ solutions in different Online Judges <br>
 <b> Handles </b> - [MasHum](https://vjudge.net/user/MasHum), [EeSha](https://vjudge.net/user/EeSha)
 
-## List of Live Products Developed by [Masum Ahmed EeSha](https://github.com/masumahmedeesha)
+## List of Live Products Developed by [Masum Ahmed Eesa](https://github.com/masumahmedeesa)
 [<b> CodexPro </b>](https://codexpro.eu) <br>
 [<b> Umediad </b>](https://umediad.com) <br>
 [<b> Mammuts </b>](https://play.google.com/store/apps/details?id=com.mammuts) <br>
