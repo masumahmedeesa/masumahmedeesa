@@ -20,7 +20,7 @@ My journey in the realm of software development is not just about coding; it's a
 **CodexPro GmbH**, Berlin, Germany (November 2023 - Present)  
 - Co-architected and co-led backend development, ensuring a scalable and maintainable architecture.
 - Integrated data analytics to track student performance, generate real-time reports, and personalize learning paths based on user data for [CodexPro](https://www.codexpro.eu).
-- Applied predictive analytics to forecast student outcomes, identify at-risk learners, and recommend targeted interventions to improve overall academic performance within [CodexPro Admin](https://www.admin.codexpro.eu).
+- Applied predictive analytics to forecast student outcomes, identify at-risk learners, and recommend targeted interventions to improve overall academic performance within [CodexPro Admin](https://www.admin.codexpro.eu) system.
 - Implemented SEO strategies to improve the platform's online visibility and search ranking.
 
 **Technologies**: Next.js, Nest.js, Swagger, Puppeteer, Tailwind, Prisma, d3.js, Pandas, Docker, CI/CD Tools, Adaptive Learning Systems, Vimeo, MongoDB, Amazon ElastiCache, S3, Clouldfront, DigitalOcean, Vercel
