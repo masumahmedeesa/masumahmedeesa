@@ -16,6 +16,17 @@ My journey in the realm of software development is not just about coding; it's a
 
 ## Work Experience
 
+### **Senior Full Stack Developer <sub><small>PART-TIME</small></sub>**  
+**CodexPro GmbH**, Berlin, Germany (November 2023 - Present)  
+- Co-architected and co-led backend development, ensuring a scalable and maintainable architecture.
+- Integrated data analytics to track student performance, generate real-time reports, and personalize learning paths based on user data for [CodexPro](https://www.codexpro.eu).
+- Applied predictive analytics to forecast student outcomes, identify at-risk learners, and recommend targeted interventions to improve overall academic performance within [CodexPro Admin](https://www.admin.codexpro.eu).
+- Implemented SEO strategies to improve the platform's online visibility and search ranking.
+
+**Technologies**: Next.js, Nest.js, Swagger, Puppeteer, Tailwind, Prisma, d3.js, Pandas, Docker, CI/CD Tools, Adaptive Learning Systems, Vimeo, MongoDB, Amazon ElastiCache, S3, Clouldfront, DigitalOcean, Vercel
+
+---
+
 ### **Software Engineer (SDE-I)**  
 **Daniyal Technologies**, Dhaka, Bangladesh (July 2023 - October 2023)
 - Worked on and enhanced several robust E-commerce Systems, catering to a user base of over 50,000 users. Examples include [Jars](https://jarscannabis.com/), [Transaction Bee](https://transactionbee.com/), [Dispo](https://disposhops.com/), [HYMAN](https://hymanfashion.com/), [MacPharms](https://macpharms.com/), and [HGSHYDR](https://hgshydro.com/).
