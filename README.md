@@ -16,18 +16,21 @@ My journey in the realm of software development is not just about coding; it's a
 
 ## Work Experience
 
-### **Senior Full Stack Developer <sub><small>PART-TIME</small></sub>**  
-**CodexPro GmbH**, Berlin, Germany (November 2023 - Present)  
-- Co-architected and co-led backend development, ensuring a scalable and maintainable architecture.
-- Integrated data analytics to track student performance, generate real-time reports, and personalize learning paths based on user data for [CodexPro](https://www.codexpro.eu).
-- Applied predictive analytics to forecast student outcomes, identify at-risk learners, and recommend targeted interventions to improve overall academic performance within [CodexPro Admin](https://www.admin.codexpro.eu) system.
-- Implemented SEO strategies to improve the platform's online visibility and search ranking.
+### **Full Stack Developer <sub><small>PART-TIME</small></sub>**  
+**CodexPro GmbH**, Berlin, Germany (January 2023 - Present)
+- Collaborated with UX designers to build reusable, custom, and 3D UI components using raw CSS and Tailwind, enhancing the user interface of [CodexPro](https://codexpro.eu).
+- Led development of a scalable Learning Management System (LMS) serving 2,000+ users.
+- Integrated Vimeo (Premium), PayPal, GeoLocation APIs, Webhooks, Mailgun, Mailchimp, and PushEngage for enhanced user experience.
+- Built a dynamic admin panel with features like attendance tracking, class video uploads, invoicing, SmartCalendar, and an Email & Notifications management system.
+- Co-architected backend infrastructure for maintainability and scalability.
+- Enabled data-driven learning through real-time analytics, personalized learning paths, and performance reporting for [CodexPro](https://codexpro.eu).
+- Implemented SEO strategies to improve visibility and search rankings.
 
-**Technologies**: Next.js, Nest.js, Swagger, Puppeteer, Tailwind, Prisma, d3.js, Pandas, Docker, CI/CD Tools, Adaptive Learning Systems, Vimeo, MongoDB, Amazon ElastiCache, S3, Clouldfront, DigitalOcean, Vercel
+**Technologies**: Next.js, Nest.js, Swagger, Puppeteer, Tailwind, Prisma, d3.js, Pandas, Docker, CI/CD Tools, Adaptive Learning Systems, Vimeo, MongoDB, S3, Clouldfront, DigitalOcean, Vercel
 
 ---
 
-### **Software Engineer (SDE-I)**  
+### **Software Engineer (SDE-I) <sub><small>CONTRACT</small></sub>** 
 **Daniyal Technologies**, Dhaka, Bangladesh (July 2023 - October 2023)
 - Worked on and enhanced several robust E-commerce Systems, catering to a user base of over 50,000 users. Examples include [Jars](https://jarscannabis.com/), [Transaction Bee](https://transactionbee.com/), [Dispo](https://disposhops.com/), [HYMAN](https://hymanfashion.com/), [MacPharms](https://macpharms.com/), and [HGSHYDR](https://hgshydro.com/).
 - Engaged in the development of an innovative appointment system tailored for service providers in industries such as spas and doctors. Contributed to the digital transformation of an insurance company, exemplified by the project [LA Insurance](https://lainsurance.com).
@@ -39,23 +42,16 @@ My journey in the realm of software development is not just about coding; it's a
 **Technologies**: Typescript, Next.js, Nest.js, Vue.js, Zustand, Tailwind, MongoDB, MySQL, DigitalOcean, Vercel
 
 ---
+### **Lecturer <sub><small>FULL-TIME</small></sub>**
+**Metropolitan University**, Sylhet, Bangladesh (August 2021 - December 2022)  
+- Taught courses including Basic Competitive Programming, Database Management Systems, Software Engineering, Web Engineering, Computer Graphics, and Operating Systems.
+- Actively involved in co-curricular activities, including student mentoring, hackathons, and programming contests.
 
-### **Full Stack Developer**  
-**CodexPro GmbH**, Berlin, Germany (May 2021 - June 2023)  
-- Collaborated with UX designers to create and implement reusable, custom, and 3D components using
-raw CSS and Tailwind, enhancing the user interface of [CodexPro (for Kids)](https://codexpro.eu).
-- Spearheaded the development of a robust Learning Management System (LMS), catering to over
-2,000 enrolled users.
-- Integrated Premium Vimeo, PayPal and GeoLocation APIs, Webhooks, Mailgun, Mailchimp, and PushEngage Notifications for a seamless user experience.
-- Developed a comprehensive admin panel overseeing 3,000+ users, featuring advanced functionalities
-such as an Attendance and Class video uploading system, automated payment invoices, vouchers,
-SmartCalendar with daily activities, Statistics, Email and Notifications Management System.
-
-**Technologies**: Typescript, Next.js, Nest.js, Puppeteer, Zustand, MongoDB, AWS S3, Vercel
+**Technologies**: Outcome-Based Education, Competitive Programming
 
 ---
 
-### **Backend Developer**  
+### **Junior Software Engineer <sub><small>PART-TIME</small></sub>**
 **InnovexIT**, Sylhet, Bangladesh (December 2020 - April 2021)  
 - Collaborated in designing a scalable database architecture and crafting REST APIs to serve a global
 user base exceeding 5,000 users for [Umediad](https://umediad.com).
