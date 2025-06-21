@@ -52,7 +52,7 @@ My journey in the realm of software development is not just about coding; it's a
 ---
 
 ### **Junior Software Engineer <sub><small>PART-TIME</small></sub>**
-**InnovexIT**, Sylhet, Bangladesh (December 2020 - April 2021)  
+**InnovexIT**, Sylhet, Bangladesh (December 2020 - July 2021)  
 - Collaborated in designing a scalable database architecture and crafting REST APIs to serve a global
 user base exceeding 5,000 users for [Umediad](https://umediad.com).
 - Implemented multi-language support, integrated Stripe for payment processing, leveraged Maps JavaScript API for location-based features, incorporated Google Translate API, enabled social logins (Google, Apple), and facilitated real-time communication among users through a robust chat system powered by Socket.IO.
