@@ -32,12 +32,12 @@ My journey in the realm of software development is not just about coding; it's a
 
 ### **Software Engineer (SDE-I) <sub><small>CONTRACT</small></sub>** 
 **Daniyal Technologies**, Dhaka, Bangladesh (July 2023 - October 2023)
-- Worked on and enhanced several robust E-commerce Systems, catering to a user base of over 50,000 users. Examples include [Jars](https://jarscannabis.com/), [Transaction Bee](https://transactionbee.com/), [Dispo](https://disposhops.com/), [HYMAN](https://hymanfashion.com/), [MacPharms](https://macpharms.com/), and [HGSHYDR](https://hgshydro.com/).
-- Engaged in the development of an innovative appointment system tailored for service providers in industries such as spas and doctors. Contributed to the digital transformation of an insurance company, exemplified by the project [LA Insurance](https://lainsurance.com).
-- Ensured the maintenance of clean code using latest technologies, including NextJS app router, Zustand, Tanstack Query, Toastify, and Tailwind CSS for both main websites and administrative panels.
-- Utilized VueJS for certain admin panels to optimize functionality.
-- Employed NestJS with MongoDB or MySQL as the backend stack for efficient system architecture.
-- Implemented various technologies, including Puppeteer, UPS integration, Nodemailer and API-based Mailgun using Handlebars templates, Swagger for API documentation, NMI Payment Gateway, Amazon ElastiCache, and other innovative solutions.
+- Developed and optimized robust e-commerce platforms serving 50,000+ users, including [Jars](https://jarscannabis.com/), [Transaction Bee](https://transactionbee.com/), [Dispo](https://disposhops.com/), [Hyman](https://hymanfashion.com/), [MacPharms](https://macpharms.com/), and [HGSHYDR](https://hgshydro.com/).
+- Contributed to digital transformation projects, including an appointment system for spas and clinics, and [LA Insurance](https://lainsurance.com/) for the insurance sector.
+- Maintained clean, scalable code using modern stacks like Next.js App Router, Zustand, TanStack Query, Toastify, and Tailwind CSS.
+- Used Vue.js in admin panels to enhance interactivity and functionality.
+- Built scalable backend systems with NestJS, using MongoDB or MySQL based on project requirements.
+- Integrated advanced tools and services: Puppeteer, UPS API, Nodemailer with Mailgun (Handlebars), Swagger for API docs, and NMI Payment Gateway.
 
 **Technologies**: Typescript, Next.js, Nest.js, Vue.js, Zustand, Tailwind, MongoDB, MySQL, DigitalOcean, Vercel
 
