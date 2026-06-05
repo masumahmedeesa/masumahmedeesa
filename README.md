@@ -5,7 +5,7 @@
 <h1>Hi, I am Masum Ahmed Eesa 👋</h1>
 
 <p>
-  <strong>Full Stack Developer · Open-source Builder · Former Lecturer · Data Engineer</strong>
+  <strong>Full Stack Developer · Open-Source Builder · Former Lecturer · Data Engineer</strong>
 </p>
 
 <p>
