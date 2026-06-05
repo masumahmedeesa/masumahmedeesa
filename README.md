@@ -5,7 +5,7 @@
 📧 **Email:** [masumahmedeesha@gmail.com](mailto:masumahmedeesha@gmail.com) <br/>
 👏 **LinkedIn:** [linkedin.com/in/masumahmedeesa](https://linkedin.com/in/masumahmedeesa) <br/>
 🙇‍♂️ **GitHub:** [github.com/masumahmedeesa](https://github.com/masumahmedeesa) <br/>
-📍 **Location:** Melandaha, Jamalpur, Bangladesh - 2012
+📍 **Location:** Motijheel C/A, Dhaka-1000
 
 ---
 
@@ -17,7 +17,7 @@ My journey in the realm of software development is not just about coding; it's a
 ## Work Experience
 
 ### **Full Stack Developer <sub><small>PART-TIME</small></sub>**  
-**CodexPro GmbH**, Berlin, Germany (January 2023 - Present)
+**CodexPro GmbH**, Berlin, Germany (January 2023 - July 2025)
 - Collaborated with UX designers to build reusable, custom, and 3D UI components using raw CSS and Tailwind, enhancing the user interface of [CodexPro](https://codexpro.eu).
 - Led development of a scalable Learning Management System (LMS) serving 2,000+ users.
 - Integrated Vimeo (Premium), PayPal, GeoLocation APIs, Webhooks, Mailgun, Mailchimp, and PushEngage for enhanced user experience.
