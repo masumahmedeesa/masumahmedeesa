@@ -1,25 +1,21 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Masum Ahmed Eesa - Full Stack Developer and Open Source Builder" width="100%" />
+  <img src="./assets/profile-banner.png" alt="Masum Ahmed Eesa - Full Stack Developer and Open Source Builder" width="100%" />
 </p>
 
-<h1 align="center">Hi, I am Masum Ahmed Eesa 👋</h1>
+<h1>Hi, I am Masum Ahmed Eesa 👋</h1>
 
-<p align="center">
-  <strong>Full Stack Developer · Open-source builder · Former lecturer · Research-minded engineer</strong>
+<p>
+  <strong>Full Stack Developer · Open-source Builder · Former Lecturer · Data Engineer</strong>
 </p>
 
-<p align="center">
-  I build learning platforms, scalable backend systems, polished UI experiences, and practical tools that help people use technology with confidence.
-</p>
-
-<p align="center">
+<p>
   <a href="mailto:masumahmedeesha@gmail.com"><img src="https://img.shields.io/badge/Email-f4d35e?style=for-the-badge&logo=gmail&logoColor=07110d" alt="Email" /></a>
   <a href="https://github.com/masumahmedeesa"><img src="https://img.shields.io/badge/GitHub-7bd389?style=for-the-badge&logo=github&logoColor=07110d" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/masumahmedeesa"><img src="https://img.shields.io/badge/LinkedIn-70d6ff?style=for-the-badge&logo=linkedin&logoColor=07110d" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/wreckagetune"><img src="https://img.shields.io/badge/Facebook-f497b6?style=for-the-badge&logo=facebook&logoColor=07110d" alt="Facebook" /></a>
 </p>
 
-<p align="center">
+<p>
   <a href="#-about-me">About</a>
   ·
   <a href="#-professional-journey">Journey</a>
