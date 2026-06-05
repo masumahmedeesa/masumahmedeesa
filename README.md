@@ -1,102 +1,228 @@
-<img src="https://github.com/masumahmedeesha/masumahmedeesha/blob/master/masum.jpeg" /> <br>
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Masum Ahmed Eesa - Full Stack Developer and Open Source Builder" width="100%" />
+</p>
 
-# Hi, I'm Masum Ahmed Eesa 👋🏾 🙂 <br>
-📞 +(880) 1701062056  
-📧 **Email:** [masumahmedeesha@gmail.com](mailto:masumahmedeesha@gmail.com) <br/>
-👏 **LinkedIn:** [linkedin.com/in/masumahmedeesa](https://linkedin.com/in/masumahmedeesa) <br/>
-🙇‍♂️ **GitHub:** [github.com/masumahmedeesa](https://github.com/masumahmedeesa) <br/>
-📍 **Location:** Motijheel C/A, Dhaka-1000
+<h1 align="center">Hi, I am Masum Ahmed Eesa 👋</h1>
+
+<p align="center">
+  <strong>Full Stack Developer · Open-source builder · Former lecturer · Research-minded engineer</strong>
+</p>
+
+<p align="center">
+  I build learning platforms, scalable backend systems, polished UI experiences, and practical tools that help people use technology with confidence.
+</p>
+
+<p align="center">
+  <a href="mailto:masumahmedeesha@gmail.com"><img src="https://img.shields.io/badge/Email-f4d35e?style=for-the-badge&logo=gmail&logoColor=07110d" alt="Email" /></a>
+  <a href="https://github.com/masumahmedeesa"><img src="https://img.shields.io/badge/GitHub-7bd389?style=for-the-badge&logo=github&logoColor=07110d" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/masumahmedeesa"><img src="https://img.shields.io/badge/LinkedIn-70d6ff?style=for-the-badge&logo=linkedin&logoColor=07110d" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/wreckagetune"><img src="https://img.shields.io/badge/Facebook-f497b6?style=for-the-badge&logo=facebook&logoColor=07110d" alt="Facebook" /></a>
+</p>
+
+<p align="center">
+  <a href="#-about-me">About</a>
+  ·
+  <a href="#-professional-journey">Journey</a>
+  ·
+  <a href="#-selected-projects">Projects</a>
+  ·
+  <a href="#-skills">Skills</a>
+  ·
+  <a href="#-research">Research</a>
+  ·
+  <a href="#-connect">Connect</a>
+</p>
 
 ---
 
-## Objectives!
-I am a passionate Software Engineer dedicated to crafting impactful open-source applications and leveraging technology to offer innovative solutions to contemporary challenges. My mission extends beyond code, as I am committed to fostering a community-driven approach that brings the benefits of technology to people of all ages. I take joy in working with cutting-edge technologies such as Nest.js, Next.js, React.js, Express.js, React Native, Laravel, and exploring the possibilities presented by Machine Learning.
+## 🌿 About Me
 
-My journey in the realm of software development is not just about coding; it's about creating meaningful solutions, building communities, and making a positive impact. I am excited about the potential of technology to bring about positive change, and I look forward to continuing this journey of innovation and community-building.
+I am a Software Engineer interested in **frontier technologies, human-centered products, open-source systems, and community-minded software**.
 
-## Work Experience
+My work spans full-stack product development, learning platforms, e-commerce systems, real-time communication, admin automation, API design, UI engineering, and machine learning experiments. I enjoy building products that are not only technically sound, but also clear, maintainable, and meaningful to the people who use them.
 
-### **Full Stack Developer <sub><small>PART-TIME</small></sub>**  
-**CodexPro GmbH**, Berlin, Germany (January 2023 - July 2025)
-- Collaborated with UX designers to build reusable, custom, and 3D UI components using raw CSS and Tailwind, enhancing the user interface of [CodexPro](https://codexpro.eu).
-- Led development of a scalable Learning Management System (LMS) serving 2,000+ users.
-- Integrated Vimeo (Premium), PayPal, GeoLocation APIs, Webhooks, Mailgun, Mailchimp, and PushEngage for enhanced user experience.
-- Built a dynamic admin panel with features like attendance tracking, class video uploads, invoicing, SmartCalendar, and an Email & Notifications management system.
+> [!NOTE]
+> Feel free to explore my interactive 3D portfolio at [masumahmedeesa.github.io](https://masumahmedeesa.github.io), where my profile, projects, skills, research, and experience are presented as a living digital tree.
+
+<table>
+  <tr>
+    <td align="center"><strong>50k+</strong><br />Users served</td>
+    <td align="center"><strong>2k+</strong><br />LMS learners</td>
+    <td align="center"><strong>30+</strong><br />REST APIs</td>
+    <td align="center"><strong>350+</strong><br />Online judge solutions</td>
+  </tr>
+</table>
+
+---
+
+## 🧭 Professional Journey
+
+### Full Stack Developer · CodexPro GmbH
+**Part-time · Berlin, Germany · January 2023 - July 2025**
+
+- Built scalable learning products and polished UI systems.
+- Led development of an LMS serving 2,000+ learners.
+- Integrated Vimeo Premium, PayPal, GeoLocation APIs, Webhooks, Mailgun, Mailchimp, and PushEngage.
+- Built admin workflows for attendance, class video uploads, invoicing, vouchers, SmartCalendar, statistics, email, and notifications.
 - Co-architected backend infrastructure for maintainability and scalability.
-- Enabled data-driven learning through real-time analytics, personalized learning paths, and performance reporting for [CodexPro](https://codexpro.eu).
-- Implemented SEO strategies to improve visibility and search rankings.
 
-**Technologies**: Next.js, Nest.js, Swagger, Puppeteer, Tailwind, Prisma, d3.js, Pandas, Docker, CI/CD Tools, Adaptive Learning Systems, Vimeo, MongoDB, S3, Clouldfront, DigitalOcean, Vercel
+**Stack:** Next.js, Nest.js, Swagger, Puppeteer, Tailwind, Prisma, d3.js, Pandas, Docker, MongoDB, S3, CloudFront, DigitalOcean, Vercel
 
----
+### Software Engineer · Daniyal Technologies
+**Contract · Dhaka, Bangladesh · July 2023 - October 2023**
 
-### **Software Engineer (SDE-I) <sub><small>CONTRACT</small></sub>** 
-**Daniyal Technologies**, Dhaka, Bangladesh (July 2023 - October 2023)
-- Developed and optimized robust e-commerce platforms serving 50,000+ users, including [Jars](https://jarscannabis.com/), [Transaction Bee](https://transactionbee.com/), [Dispo](https://disposhops.com/), [Hyman](https://hymanfashion.com/), [MacPharms](https://macpharms.com/), and [HGSHYDR](https://hgshydro.com/).
-- Contributed to digital transformation projects, including an appointment system for spas and clinics, and [LA Insurance](https://lainsurance.com/) for the insurance sector.
-- Maintained clean, scalable code using modern stacks like Next.js App Router, Zustand, TanStack Query, Toastify, and Tailwind CSS.
-- Used Vue.js in admin panels to enhance interactivity and functionality.
-- Built scalable backend systems with NestJS, using MongoDB or MySQL based on project requirements.
-- Integrated advanced tools and services: Puppeteer, UPS API, Nodemailer with Mailgun (Handlebars), Swagger for API docs, and NMI Payment Gateway.
+- Built and optimized e-commerce products serving 50,000+ users.
+- Worked on Jars, Transaction Bee, Dispo, HYMAN, MacPharms, HGSHYDR, and LA Insurance.
+- Developed scalable backend systems with NestJS, MongoDB, and MySQL.
+- Integrated Puppeteer, UPS API, Nodemailer with Mailgun, Swagger, and NMI Payment Gateway.
 
-**Technologies**: Typescript, Next.js, Nest.js, Vue.js, Zustand, Tailwind, MongoDB, MySQL, DigitalOcean, Vercel
+**Stack:** Typescript, Next.js, Nest.js, Vue.js, Zustand, Tailwind, MongoDB, MySQL, DigitalOcean, Vercel
 
----
-### **Lecturer <sub><small>FULL-TIME</small></sub>**
-**Metropolitan University**, Sylhet, Bangladesh (August 2021 - December 2022)  
-- Taught courses including Basic Competitive Programming, Database Management Systems, Software Engineering, Web Engineering, Computer Graphics, and Operating Systems.
-- Actively involved in co-curricular activities, including student mentoring, hackathons, and programming contests.
+### Lecturer · Metropolitan University
+**Full-time · Sylhet, Bangladesh · August 2021 - December 2022**
 
-**Technologies**: Outcome-Based Education, Competitive Programming
+- Taught Basic Competitive Programming, Database Management Systems, Software Engineering, Web Engineering, Computer Graphics, and Operating Systems.
+- Mentored students through hackathons, programming contests, and co-curricular activities.
 
----
+### Junior Software Engineer · InnovexIT
+**Part-time · Sylhet, Bangladesh · December 2020 - July 2021**
 
-### **Junior Software Engineer <sub><small>PART-TIME</small></sub>**
-**InnovexIT**, Sylhet, Bangladesh (December 2020 - July 2021)  
-- Collaborated in designing a scalable database architecture and crafting REST APIs to serve a global
-user base exceeding 5,000 users for [Umediad](https://umediad.com).
-- Implemented multi-language support, integrated Stripe for payment processing, leveraged Maps JavaScript API for location-based features, incorporated Google Translate API, enabled social logins (Google, Apple), and facilitated real-time communication among users through a robust chat system powered by Socket.IO.
-
-**Technologies**: Express.js, React.js, MongoDB, Stripe, VPS
+- Designed REST APIs and database architecture for Umediad, serving 5,000+ users.
+- Implemented multilingual features, Stripe payments, Maps JavaScript API, Google Translate API, social login, and real-time chat with Socket.IO.
 
 ---
 
-## Education
+## 🧩 Selected Projects
 
-### **B.Sc. in Computer Science and Engineering**  
-Shahjalal University of Science and Technology, Sylhet (February 2017 to September 2021) <br/>
-**CGPA**: 3.63 / 4.00
+<table>
+  <tr>
+    <td width="33%">
+      <a href="https://codexpro.eu"><img src="./assets/codexpro.jpg" alt="CodexPro" width="100%" /></a>
+      <h3>CodexPro</h3>
+      <p>Learning platform with LMS, analytics, custom UI systems, and automated admin workflows.</p>
+      <p><strong>Next.js · Nest.js · MongoDB · AWS S3 · Vercel</strong></p>
+    </td>
+    <td width="33%">
+      <a href="https://umediad.com"><img src="./assets/umediad.jpg" alt="Umediad" width="100%" /></a>
+      <h3>Umediad</h3>
+      <p>Advertising marketplace with APIs, multilingual UX, payments, maps, and real-time chat.</p>
+      <p><strong>React.js · Express.js · MongoDB · Socket.IO</strong></p>
+    </td>
+    <td width="33%">
+      <a href="https://play.google.com/store/apps/details?id=com.mammuts"><img src="./assets/mammuts.jpg" alt="Mammuts" width="100%" /></a>
+      <h3>Mammuts</h3>
+      <p>Social diary app for profiles, memories, photos, recordings, and private/public sharing.</p>
+      <p><strong>React Native · Javascript · PHP</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <a href="https://aaloi.com"><img src="./assets/aaloi.jpg" alt="aaloi" width="100%" /></a>
+      <h3>aaloi</h3>
+      <p>Consultancy hub and commodity supplier locator for civil and structural services.</p>
+      <p><strong>Laravel · PHP</strong></p>
+    </td>
+    <td width="33%">
+      <a href="https://www.youtube.com/watch?v=yWAhC95n5RM"><img src="./assets/ml.png" alt="Image Caption Generator" width="100%" /></a>
+      <h3>Image Caption Generator</h3>
+      <p>Machine learning experiment generating natural-language captions from image features.</p>
+      <p><strong>Deep Learning · CNN · LSTM</strong></p>
+    </td>
+    <td width="33%">
+      <h3>Open-source Direction</h3>
+      <p>I enjoy building reusable systems, clear interfaces, and practical tools that other developers can adapt.</p>
+      <p><strong>Documentation · DX · Community-minded engineering</strong></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Skills
+## 🛠 Skills
 
-**Programming Languages**:  
-- Javascript (Fluent), Typescript (Fluent), Python (Fluent), C++ (Competent), PHP (Competent)
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Languages</h3>
+      <p>Javascript, Typescript, Python, C++, PHP</p>
+    </td>
+    <td width="50%">
+      <h3>Frameworks</h3>
+      <p>React.js, Next.js, Express.js, Nest.js, React Native, Laravel</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Tools & Platforms</h3>
+      <p>Git, MongoDB, MySQL, Docker, EC2, DigitalOcean, Vercel, Linux, MacOS, LaTeX</p>
+    </td>
+    <td width="50%">
+      <h3>Product Areas</h3>
+      <p>LMS, admin panels, e-commerce, APIs, real-time systems, analytics, SEO, automation</p>
+    </td>
+  </tr>
+</table>
 
-**Frameworks**:  
-- React.js, Next.js, Express.js, Nest.js, ReactNative, Laravel
-
-**Tools & Technologies**:  
-- Git, MongoDB, PayPal, Vimeo, Docker, EC2, DigitalOcean, MySQL, Linux, MacOS, LATEX
-
-**Competitive Programming**: 
-- Overall 350+ solutions in different Online Judges. Handles - [MasHum](https://vjudge.net/user/MasHum), [EeSha](https://vjudge.net/user/EeSha)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-f4d35e?style=flat-square&logo=javascript&logoColor=07110d" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-70d6ff?style=flat-square&logo=typescript&logoColor=07110d" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-7bd389?style=flat-square&logo=react&logoColor=07110d" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-f5f1e8?style=flat-square&logo=next.js&logoColor=07110d" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Nest.js-f497b6?style=flat-square&logo=nestjs&logoColor=07110d" alt="Nest.js" />
+  <img src="https://img.shields.io/badge/MongoDB-7bd389?style=flat-square&logo=mongodb&logoColor=07110d" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-70d6ff?style=flat-square&logo=docker&logoColor=07110d" alt="Docker" />
+</p>
 
 ---
 
-## Research & Projects
+## 🔬 Research
 
-### **Linguistics Analysis of English ↔ Bangla Machine Translation** (2020-2021)  
-[Linguistics Analysis Repo](https://github.com/masumahmedeesha/Linguistics-Analysis)  
-- An analysis of possible linguistics features for all available English ↔Bangla Parallel corpora using Statistical Machine Translation, state-of-art Neural Machine Translation, and a novel neural Lemmatizer to find errors in translating from Bangla to English and English to Bangla.
+### Linguistics Analysis of English ↔ Bangla Machine Translation
 
-**Technologies**: Python, TensorFlow, SMT, NMT
+I analyzed English-Bangla parallel corpora using Statistical Machine Translation, Neural Machine Translation, and a neural lemmatizer to investigate translation errors and linguistic patterns.
+
+**Focus:** Python, TensorFlow, SMT, NMT, Bangla NLP
+
+### Image Caption Generator with CNN & LSTM
+
+A deep learning project using image feature extraction and sequential language generation to produce captions from images.
+
+**Focus:** Deep Learning, CNN, LSTM, computer vision, language generation
 
 ---
 
-### **Mammuts: Online Diary** (2020)  
-[Mammuts ReactNative Repo](https://github.com/masumahmedeesha/Mammuts-ReactNative) and [Mammuts on Play Store](https://play.google.com/store/apps/details?id=com.mammuts)
-- A cross-platform social application built for an Italian Client as a freelance developer that allows users to create a social profile, make friends and share a memory with Photos and Recordings in Private/Public mode.
+## 🎓 Education
 
-**Technologies**: ReactNative, Javascript, PHP
+**B.Sc. in Computer Science and Engineering**  
+Shahjalal University of Science and Technology, Sylhet  
+February 2017 to September 2021  
+**CGPA:** 3.63 / 4.00
+
+---
+
+## 🤝 Connect
+
+<table>
+  <tr>
+    <td><strong>Email</strong></td>
+    <td><a href="mailto:masumahmedeesha@gmail.com">masumahmedeesha@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>GitHub</strong></td>
+    <td><a href="https://github.com/masumahmedeesa">github.com/masumahmedeesa</a></td>
+  </tr>
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td><a href="https://www.linkedin.com/in/masumahmedeesa">linkedin.com/in/masumahmedeesa</a></td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Motijheel C/A, Dhaka-1000</td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <strong>Building software that feels thoughtful, useful, and alive.</strong>
+</p>
