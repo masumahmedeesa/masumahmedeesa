@@ -123,14 +123,15 @@ My work spans full-stack product development, learning platforms, e-commerce sys
       <p>Advertising marketplace with APIs, multilingual UX, payments, maps, and real-time chat.</p>
       <p><strong>React.js · Express.js · MongoDB · Socket.IO</strong></p>
     </td>
-    <td width="33%">
+    
+  </tr>
+  <tr>
+  <td width="33%">
       <a href="https://play.google.com/store/apps/details?id=com.mammuts"><img src="./assets/mammuts.jpg" alt="Mammuts" width="100%" /></a>
       <h3>Mammuts</h3>
       <p>Social diary app for profiles, memories, photos, recordings, and private/public sharing.</p>
       <p><strong>React Native · Javascript · PHP</strong></p>
     </td>
-  </tr>
-  <tr>
     <td width="33%">
       <a href="https://aaloi.com"><img src="./assets/aaloi.jpg" alt="aaloi" width="100%" /></a>
       <h3>aaloi</h3>
@@ -142,11 +143,6 @@ My work spans full-stack product development, learning platforms, e-commerce sys
       <h3>Image Caption Generator</h3>
       <p>Machine learning experiment generating natural-language captions from image features.</p>
       <p><strong>Deep Learning · CNN · LSTM</strong></p>
-    </td>
-    <td width="33%">
-      <h3>Open-source Direction</h3>
-      <p>I enjoy building reusable systems, clear interfaces, and practical tools that other developers can adapt.</p>
-      <p><strong>Documentation · DX · Community-minded engineering</strong></p>
     </td>
   </tr>
 </table>
