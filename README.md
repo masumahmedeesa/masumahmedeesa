@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="Masum Ahmed Eesa - Full Stack Developer and Open Source Builder" width="100%" />
+  <img src="./assets/profile-banner.jpg" alt="Masum Ahmed Eesa - Full Stack Developer and Open Source Builder" width="100%" />
 </p>
 
 <h1>Hi, I am Masum Ahmed 👋</h1>
 
 <p>
-  <strong>Full Stack Developer · Open-Source Builder · Former Lecturer · Data Engineer</strong>
+  <strong>Central Banker · Full Stack Developer · Open-Source Builder · Former Lecturer · Data Engineer</strong>
 </p>
 
 <p>
@@ -53,38 +53,51 @@ My work spans full-stack product development, learning platforms, e-commerce sys
 
 ## 🧭 Professional Journey
 
-### Full Stack Developer · CodexPro GmbH
-**Part-time · Berlin, Germany · January 2023 - July 2025**
+### Assistant Director (ICT) · Bangladesh Bank
+**Full-time · Motijheel C/A, Dhaka-1000 · August 2025 - Present**
 
-- Built scalable learning products and polished UI systems.
-- Led development of an LMS serving 2,000+ learners.
-- Integrated Vimeo Premium, PayPal, GeoLocation APIs, Webhooks, Mailgun, Mailchimp, and PushEngage.
-- Built admin workflows for attendance, class video uploads, invoicing, vouchers, SmartCalendar, statistics, email, and notifications.
+- Developing the RBS analytics platform on Oracle BI (OBIEE) 12c, building dashboards, pivot reports, and dynamic prompts that give supervisors clear, structured views of banking data.
+- Turning supervisory data into reliable, stakeholder-ready reporting, bridging ICT and supervisory policy to support data-driven decisions.
+- Working on eTransfer Posting and ePMS, Bangladesh Bank’s digital systems integrated with SAP, supporting rollout, user support, and data consistency across platforms.
+
+### Full Stack Developer · CodexPro GmbH
+**Part-time · Berlin, Germany · January 2023 - August 2025**
+
+- Collaborated with UX designers to build reusable, custom, and 3D UI components using raw CSS and Tailwind, enhancing the user interface of CodexPro.
+- Played a key role in developing a scalable Learning Management System (LMS) serving 2,000+ users.
+- Integrated Vimeo (Premium), PayPal, GeoLocation APIs, Webhooks, Mailgun, Mailchimp, and PushEngage for enhanced user experience.
+- Built a dynamic admin panel with features like attendance tracking, class video uploads, invoicing, SmartCalendar, and an Email & Notifications management system.
 - Co-architected backend infrastructure for maintainability and scalability.
+- Enabled data-driven learning through real-time analytics, personalized learning paths, and performance reporting for CodexPro.
+- Implemented SEO strategies to improve visibility and search rankings.
 
 **Stack:** Next.js, Nest.js, Swagger, Puppeteer, Tailwind, Prisma, d3.js, Pandas, Docker, MongoDB, S3, CloudFront, DigitalOcean, Vercel
 
 ### Software Engineer · Daniyal Technologies
 **Contract · Dhaka, Bangladesh · July 2023 - October 2023**
 
-- Built and optimized e-commerce products serving 50,000+ users.
-- Worked on Jars, Transaction Bee, Dispo, HYMAN, MacPharms, HGSHYDR, and LA Insurance.
-- Developed scalable backend systems with NestJS, MongoDB, and MySQL.
-- Integrated Puppeteer, UPS API, Nodemailer with Mailgun, Swagger, and NMI Payment Gateway.
+- Developed and optimized robust e-commerce platforms serving 50,000+ users, including Jars, Transaction Bee, Dispo, HYMAN, MacPharms, and HGSHYDR.
+- Contributed to digital transformation projects, including an appointment system for spas and clinics, and LA Insurance for the insurance sector.
+- Maintained clean, scalable code using modern stacks like Next.js App Router, Zustand, TanStack Query, Toastify, and Tailwind CSS.
+- Used Vue.js in admin panels to enhance interactivity and functionality.
+- Built scalable backend systems with NestJS, using MongoDB or MySQL based on project requirements.
+- Integrated advanced tools and services: Puppeteer, UPS API, Nodemailer with Mailgun (Handlebars), Swagger for API docs, and NMI Payment Gateway.
 
 **Stack:** Typescript, Next.js, Nest.js, Vue.js, Zustand, Tailwind, MongoDB, MySQL, DigitalOcean, Vercel
 
 ### Lecturer · Metropolitan University
 **Full-time · Sylhet, Bangladesh · August 2021 - December 2022**
 
-- Taught Basic Competitive Programming, Database Management Systems, Software Engineering, Web Engineering, Computer Graphics, and Operating Systems.
-- Mentored students through hackathons, programming contests, and co-curricular activities.
+- Taught courses including Basic Competitive Programming, Database Management Systems, Software Engineering, Web Engineering, Computer Graphics, and Operating Systems.
+- Actively involved in co-curricular activities, including student mentoring, hackathons, and programming contests.
 
 ### Junior Software Engineer · InnovexIT
 **Part-time · Sylhet, Bangladesh · December 2020 - July 2021**
 
-- Designed REST APIs and database architecture for Umediad, serving 5,000+ users.
-- Implemented multilingual features, Stripe payments, Maps JavaScript API, Google Translate API, social login, and real-time chat with Socket.IO.
+- Collaborated in designing a scalable database architecture and crafting REST APIs to serve a global user base exceeding 5,000 users for Umediad.
+- Implemented multi-language support, integrated Stripe for payment processing, leveraged Maps JavaScript API for location-based features, incorporated Google - - Translate API, enabled social logins (Google, Apple), and facilitated real-time communication among users through a robust chat system powered by Socket.IO.
+
+**Stack:** Express.js, React.js, MongoDB, Stripe, VPS
 
 ---
 
@@ -92,6 +105,12 @@ My work spans full-stack product development, learning platforms, e-commerce sys
 
 <table>
   <tr>
+  <td width="33%">
+      <a href="https://caexambd.org"><img src="./assets/caexambd.png" alt="caexambd.org" width="100%" /></a>
+      <h3>caexambd.org</h3>
+      <p>A production mock-examination platform for CA students, built for concurrent timed exams, with optimized data access, Redis caching, and a themeable UI system..</p>
+      <p><strong>Laravel · JavaScript · Redis (Upstash) · Tailwind CSS · cPanel</strong></p>
+    </td>
     <td width="33%">
       <a href="https://codexpro.eu"><img src="./assets/codexpro.jpg" alt="CodexPro" width="100%" /></a>
       <h3>CodexPro</h3>
